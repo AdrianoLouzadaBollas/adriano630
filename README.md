@@ -6,7 +6,7 @@ Sobre porque enviei meu currículo: No anúncio não tinha node.js como obrigat�
 se quiser mais referencias minhas podem visitar esses endereços:
 http://infobitsolucoes.com (meu site com portifólio)
 
-youtube.com/codificado (meu canal no youtube)
+http://youtube.com/codificado (meu canal no youtube)
 
 Desde já agradeço a atenção e muito obrigado pela oportunidade.
 
